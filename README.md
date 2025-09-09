@@ -1,2 +1,2 @@
 Desenvolver FullStack
-Um Blog sobre Ameixa amarela ou Nespera Jabonica
+Servidor: Sobre os estudos da Ameixa amarela ou Nespera Jabonica

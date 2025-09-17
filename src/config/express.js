@@ -1,3 +1,4 @@
+// configurações do servidor
 const express = require("express");  // Importando o modulo para dentro do codigo
 const path = require("path");
 const bodyParser = require("body-parser");
@@ -10,3 +11,4 @@ app.use(bodyParser.urlencoded({extended: true}));
 
 
 module.exports = app;  // Exportando para usar em outro codigo.
+

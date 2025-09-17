@@ -1,8 +1,8 @@
-const app = require("./app");
+const app = require("./app"); 
 
-require("dotenv").config();
+require("dotenv").config(); // Importando o modulo para trazer o endereço e porta para dentro do servidor
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT; 
 const HOST = process.env.HOST;
 
 app.listen(PORT, HOST, () => {
